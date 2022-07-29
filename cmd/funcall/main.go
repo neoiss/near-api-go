@@ -11,13 +11,13 @@ import (
 
 	"github.com/urfave/cli/v2"
 
-	"github.com/eteu-technologies/near-api-go/pkg/client"
-	"github.com/eteu-technologies/near-api-go/pkg/client/block"
-	"github.com/eteu-technologies/near-api-go/pkg/config"
-	"github.com/eteu-technologies/near-api-go/pkg/types"
-	"github.com/eteu-technologies/near-api-go/pkg/types/action"
-	"github.com/eteu-technologies/near-api-go/pkg/types/hash"
-	"github.com/eteu-technologies/near-api-go/pkg/types/key"
+	"github.com/neoiss/near-api-go/pkg/client"
+	"github.com/neoiss/near-api-go/pkg/client/block"
+	"github.com/neoiss/near-api-go/pkg/config"
+	"github.com/neoiss/near-api-go/pkg/types"
+	"github.com/neoiss/near-api-go/pkg/types/action"
+	"github.com/neoiss/near-api-go/pkg/types/hash"
+	"github.com/neoiss/near-api-go/pkg/types/key"
 )
 
 func main() {

@@ -1,8 +1,8 @@
 package client
 
 import (
-	"github.com/eteu-technologies/near-api-go/pkg/types"
-	"github.com/eteu-technologies/near-api-go/pkg/types/hash"
+	"github.com/neoiss/near-api-go/pkg/types"
+	"github.com/neoiss/near-api-go/pkg/types/hash"
 )
 
 type QueryResponse struct {

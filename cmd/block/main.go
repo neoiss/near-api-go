@@ -9,9 +9,9 @@ import (
 	"github.com/davecgh/go-spew/spew"
 	"github.com/urfave/cli/v2"
 
-	"github.com/eteu-technologies/near-api-go/pkg/client"
-	"github.com/eteu-technologies/near-api-go/pkg/client/block"
-	"github.com/eteu-technologies/near-api-go/pkg/config"
+	"github.com/neoiss/near-api-go/pkg/client"
+	"github.com/neoiss/near-api-go/pkg/client/block"
+	"github.com/neoiss/near-api-go/pkg/config"
 )
 
 func main() {

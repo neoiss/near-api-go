@@ -2,12 +2,12 @@ package transaction
 
 import (
 	"github.com/eteu-technologies/borsh-go"
-	"github.com/eteu-technologies/near-api-go/pkg/types/signature"
+	"github.com/neoiss/near-api-go/pkg/types/signature"
 
-	"github.com/eteu-technologies/near-api-go/pkg/types"
-	"github.com/eteu-technologies/near-api-go/pkg/types/action"
-	"github.com/eteu-technologies/near-api-go/pkg/types/hash"
-	"github.com/eteu-technologies/near-api-go/pkg/types/key"
+	"github.com/neoiss/near-api-go/pkg/types"
+	"github.com/neoiss/near-api-go/pkg/types/action"
+	"github.com/neoiss/near-api-go/pkg/types/hash"
+	"github.com/neoiss/near-api-go/pkg/types/key"
 )
 
 type Transaction struct {

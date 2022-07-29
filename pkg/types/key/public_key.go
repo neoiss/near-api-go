@@ -8,7 +8,7 @@ import (
 
 	"github.com/mr-tron/base58"
 
-	"github.com/eteu-technologies/near-api-go/pkg/types/signature"
+	"github.com/neoiss/near-api-go/pkg/types/signature"
 )
 
 // TODO: SECP256K1

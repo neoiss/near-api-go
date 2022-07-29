@@ -5,7 +5,7 @@ import (
 	"fmt"
 
 	"github.com/eteu-technologies/borsh-go"
-	"github.com/eteu-technologies/near-api-go/pkg/types"
+	"github.com/neoiss/near-api-go/pkg/types"
 )
 
 type AccessKeyPermission struct {

@@ -4,8 +4,8 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/eteu-technologies/near-api-go/pkg/types"
-	"github.com/eteu-technologies/near-api-go/pkg/types/key"
+	"github.com/neoiss/near-api-go/pkg/types"
+	"github.com/neoiss/near-api-go/pkg/types/key"
 )
 
 type AccessKey struct {

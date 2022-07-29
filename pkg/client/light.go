@@ -3,7 +3,8 @@ package client
 import (
 	"context"
 	"errors"
-	"github.com/eteu-technologies/near-api-go/pkg/types/hash"
+
+	"github.com/neoiss/near-api-go/pkg/types/hash"
 )
 
 // NextLightClientBlock doc: https://nomicon.io/ChainSpec/LightClient#light-client-block

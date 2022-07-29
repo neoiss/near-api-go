@@ -1,7 +1,7 @@
 package block
 
 import (
-	"github.com/eteu-technologies/near-api-go/pkg/types/hash"
+	"github.com/neoiss/near-api-go/pkg/types/hash"
 )
 
 // BlockCharacteristic is a function type aiding with specifying a block

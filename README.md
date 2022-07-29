@@ -1,14 +1,14 @@
 # near-api-go
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/eteu-technologies/near-api-go.svg)](https://pkg.go.dev/github.com/eteu-technologies/near-api-go)
-[![CI](https://github.com/eteu-technologies/near-api-go/actions/workflows/lint.yml/badge.svg)](https://github.com/eteu-technologies/near-api-go/actions/workflows/lint.yml)
+[![Go Reference](https://pkg.go.dev/badge/github.com/neoiss/near-api-go.svg)](https://pkg.go.dev/github.com/neoiss/near-api-go)
+[![CI](https://github.com/neoiss/near-api-go/actions/workflows/lint.yml/badge.svg)](https://github.com/neoiss/near-api-go/actions/workflows/lint.yml)
 
 **WARNING**: This library is still work in progress. While it covers about 90% of the use-cases, it does not have many batteries included.
 
 ## Usage
 
 ```
-go get github.com/eteu-technologies/near-api-go
+go get github.com/neoiss/near-api-go
 ```
 
 ### Notes
@@ -34,8 +34,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/eteu-technologies/near-api-go/pkg/client"
-	"github.com/eteu-technologies/near-api-go/pkg/client/block"
+	"github.com/neoiss/near-api-go/pkg/client"
+	"github.com/neoiss/near-api-go/pkg/client/block"
 )
 
 func main() {
@@ -64,10 +64,10 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/eteu-technologies/near-api-go/pkg/client"
-	"github.com/eteu-technologies/near-api-go/pkg/types"
-	"github.com/eteu-technologies/near-api-go/pkg/types/action"
-	"github.com/eteu-technologies/near-api-go/pkg/types/key"
+	"github.com/neoiss/near-api-go/pkg/client"
+	"github.com/neoiss/near-api-go/pkg/types"
+	"github.com/neoiss/near-api-go/pkg/types/action"
+	"github.com/neoiss/near-api-go/pkg/types/key"
 )
 
 var (

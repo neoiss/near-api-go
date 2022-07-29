@@ -4,8 +4,8 @@ import (
 	"context"
 	"encoding/json"
 
-	"github.com/eteu-technologies/near-api-go/pkg/client/block"
-	"github.com/eteu-technologies/near-api-go/pkg/jsonrpc"
+	"github.com/neoiss/near-api-go/pkg/client/block"
+	"github.com/neoiss/near-api-go/pkg/jsonrpc"
 )
 
 type Client struct {

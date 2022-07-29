@@ -3,7 +3,7 @@ package client
 import (
 	"context"
 
-	"github.com/eteu-technologies/near-api-go/pkg/client/block"
+	"github.com/neoiss/near-api-go/pkg/client/block"
 )
 
 // https://docs.near.org/docs/api/rpc#gas-price
